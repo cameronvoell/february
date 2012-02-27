@@ -1,5 +1,9 @@
 == Welcome to Rails
 
+This application will be deployed via heroku to the following url - http://blazing-rain-3299.heroku.com/
+
+The app name on git is february
+
 == Getting Started
 
 1. At the command prompt, create a new Rails application:
